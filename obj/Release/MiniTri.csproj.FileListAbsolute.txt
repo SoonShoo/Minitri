@@ -1,0 +1,15 @@
+D:\НИУ ИТМО\Sharpdx\SharpDX-Samples-master\WindowsDesktop\Direct3D11\MiniTri\bin\Release\MiniTri.fx
+D:\НИУ ИТМО\Sharpdx\SharpDX-Samples-master\WindowsDesktop\Direct3D11\MiniTri\bin\Release\MiniTri.exe
+D:\НИУ ИТМО\Sharpdx\SharpDX-Samples-master\WindowsDesktop\Direct3D11\MiniTri\bin\Release\MiniTri.pdb
+D:\НИУ ИТМО\Sharpdx\SharpDX-Samples-master\WindowsDesktop\Direct3D11\MiniTri\bin\Release\SharpDX.D3DCompiler.dll
+D:\НИУ ИТМО\Sharpdx\SharpDX-Samples-master\WindowsDesktop\Direct3D11\MiniTri\bin\Release\SharpDX.Direct3D11.dll
+D:\НИУ ИТМО\Sharpdx\SharpDX-Samples-master\WindowsDesktop\Direct3D11\MiniTri\bin\Release\SharpDX.dll
+D:\НИУ ИТМО\Sharpdx\SharpDX-Samples-master\WindowsDesktop\Direct3D11\MiniTri\bin\Release\SharpDX.DXGI.dll
+D:\НИУ ИТМО\Sharpdx\SharpDX-Samples-master\WindowsDesktop\Direct3D11\MiniTri\bin\Release\SharpDX.xml
+D:\НИУ ИТМО\Sharpdx\SharpDX-Samples-master\WindowsDesktop\Direct3D11\MiniTri\bin\Release\SharpDX.D3DCompiler.xml
+D:\НИУ ИТМО\Sharpdx\SharpDX-Samples-master\WindowsDesktop\Direct3D11\MiniTri\bin\Release\SharpDX.Direct3D11.xml
+D:\НИУ ИТМО\Sharpdx\SharpDX-Samples-master\WindowsDesktop\Direct3D11\MiniTri\bin\Release\SharpDX.DXGI.xml
+D:\НИУ ИТМО\Sharpdx\SharpDX-Samples-master\WindowsDesktop\Direct3D11\MiniTri\obj\Release\MiniTri.exe
+D:\НИУ ИТМО\Sharpdx\SharpDX-Samples-master\WindowsDesktop\Direct3D11\MiniTri\obj\Release\MiniTri.pdb
+D:\НИУ ИТМО\Sharpdx\SharpDX-Samples-master\WindowsDesktop\Direct3D11\MiniTri\obj\Release\MiniTri.csprojResolveAssemblyReference.cache
+D:\НИУ ИТМО\Sharpdx\SharpDX-Samples-master\WindowsDesktop\Direct3D11\MiniTri\bin\Release\SharpDX.RawInput.dll
